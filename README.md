@@ -6,8 +6,6 @@ I am a good team player. I love to connect with people around me. Traveling is t
 Respect and empathy toward all living beings will help make the world a better place.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkcs1206&show_icons=true&theme=radical)
-
 <!--
 **hkcs1206/hkcs1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
